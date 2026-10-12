@@ -295,7 +295,7 @@ sudo sg-awg-panel uninstall
 Или напрямую из GitHub:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/s-gor/sg-awg-panel/main/uninstall.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/DedaYosya/sg-awg-panel/main/uninstall.sh | sudo bash
 ```
 
 Подтверждение:
