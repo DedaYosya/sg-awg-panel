@@ -183,7 +183,7 @@ sudo sg-awg-panel verify-backup
 На чистой Ubuntu 22.04/24.04:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/s-gor/sg-awg-panel/main/install.sh -o /tmp/install-sg-awg-panel.sh
+curl -fsSL https://raw.githubusercontent.com/DedaYosya/sg-awg-panel/main/install.sh -o /tmp/install-sg-awg-panel.sh
 sudo bash /tmp/install-sg-awg-panel.sh
 ```
 
